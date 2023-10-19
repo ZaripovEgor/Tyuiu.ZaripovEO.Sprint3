@@ -12,7 +12,7 @@ namespace Tyuiu.ZaripovEO.Sprint3.Task0.V1
     {
         static void Main(string[] args)
         {
-            DataSevice ds = new DataSevice();
+            DataService ds = new DataService();
             Console.Title = "Спринт №3 | Выполнил: Зарипов Е. О. | ИСТНб-23-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #3                                                               *");
