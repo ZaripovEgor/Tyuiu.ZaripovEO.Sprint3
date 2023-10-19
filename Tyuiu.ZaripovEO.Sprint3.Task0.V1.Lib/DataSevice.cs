@@ -18,7 +18,7 @@ namespace Tyuiu.ZaripovEO.Sprint3.Task0.V1.Lib
             {
                 sumSeries = sumSeries + ((value * value * i) + 1);
             }
-            return sumSeries;
+            return Math.Round(sumSeries,3);
         }
     }
 }
